@@ -1,0 +1,14 @@
+C:\Users\Vitor\Desktop\Lista_EstruturaCondicional\ex9\ex9\bin\Debug\ex9.exe.config
+C:\Users\Vitor\Desktop\Lista_EstruturaCondicional\ex9\ex9\bin\Debug\ex9.exe
+C:\Users\Vitor\Desktop\Lista_EstruturaCondicional\ex9\ex9\bin\Debug\ex9.pdb
+C:\Users\Vitor\Desktop\Lista_EstruturaCondicional\ex9\ex9\obj\Debug\ex9.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\Lista_EstruturaCondicional\ex9\ex9\obj\Debug\ex9.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\Lista_EstruturaCondicional\ex9\ex9\obj\Debug\ex9.exe
+C:\Users\Vitor\Desktop\Lista_EstruturaCondicional\ex9\ex9\obj\Debug\ex9.pdb
+C:\Users\Vitor\Desktop\Lista1\Lista_EstruturaCondicional\ex9\ex9\bin\Debug\ex9.exe.config
+C:\Users\Vitor\Desktop\Lista1\Lista_EstruturaCondicional\ex9\ex9\bin\Debug\ex9.exe
+C:\Users\Vitor\Desktop\Lista1\Lista_EstruturaCondicional\ex9\ex9\bin\Debug\ex9.pdb
+C:\Users\Vitor\Desktop\Lista1\Lista_EstruturaCondicional\ex9\ex9\obj\Debug\ex9.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\Lista1\Lista_EstruturaCondicional\ex9\ex9\obj\Debug\ex9.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\Lista1\Lista_EstruturaCondicional\ex9\ex9\obj\Debug\ex9.exe
+C:\Users\Vitor\Desktop\Lista1\Lista_EstruturaCondicional\ex9\ex9\obj\Debug\ex9.pdb

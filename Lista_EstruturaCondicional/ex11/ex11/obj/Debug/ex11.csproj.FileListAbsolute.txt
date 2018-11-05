@@ -1,0 +1,7 @@
+C:\Users\Vitor\Desktop\Lista1\Lista_EstruturaCondicional\ex11\ex11\bin\Debug\ex11.exe.config
+C:\Users\Vitor\Desktop\Lista1\Lista_EstruturaCondicional\ex11\ex11\bin\Debug\ex11.exe
+C:\Users\Vitor\Desktop\Lista1\Lista_EstruturaCondicional\ex11\ex11\bin\Debug\ex11.pdb
+C:\Users\Vitor\Desktop\Lista1\Lista_EstruturaCondicional\ex11\ex11\obj\Debug\ex11.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\Lista1\Lista_EstruturaCondicional\ex11\ex11\obj\Debug\ex11.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\Lista1\Lista_EstruturaCondicional\ex11\ex11\obj\Debug\ex11.exe
+C:\Users\Vitor\Desktop\Lista1\Lista_EstruturaCondicional\ex11\ex11\obj\Debug\ex11.pdb

@@ -1,0 +1,7 @@
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex2\ex2\obj\Debug\ex2.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex2\ex2\bin\Debug\ex2.exe.config
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex2\ex2\bin\Debug\ex2.exe
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex2\ex2\bin\Debug\ex2.pdb
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex2\ex2\obj\Debug\ex2.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex2\ex2\obj\Debug\ex2.exe
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex2\ex2\obj\Debug\ex2.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex7\ex7\obj\Debug\ex7.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex7\ex7\bin\Debug\ex7.exe.config
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex7\ex7\bin\Debug\ex7.exe
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex7\ex7\bin\Debug\ex7.pdb
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex7\ex7\obj\Debug\ex7.exe
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex7\ex7\obj\Debug\ex7.pdb

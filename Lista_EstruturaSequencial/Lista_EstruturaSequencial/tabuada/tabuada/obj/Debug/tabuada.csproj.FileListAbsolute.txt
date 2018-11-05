@@ -1,0 +1,14 @@
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\tabuada\tabuada\bin\Debug\tabuada.exe.config
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\tabuada\tabuada\bin\Debug\tabuada.exe
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\tabuada\tabuada\bin\Debug\tabuada.pdb
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\tabuada\tabuada\obj\Debug\tabuada.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\tabuada\tabuada\obj\Debug\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\tabuada\tabuada\obj\Debug\tabuada.exe
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\tabuada\tabuada\obj\Debug\tabuada.pdb
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\Lista_EstruturaSequencial\tabuada\tabuada\bin\Debug\tabuada.exe.config
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\Lista_EstruturaSequencial\tabuada\tabuada\bin\Debug\tabuada.exe
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\Lista_EstruturaSequencial\tabuada\tabuada\bin\Debug\tabuada.pdb
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\Lista_EstruturaSequencial\tabuada\tabuada\obj\Debug\tabuada.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\Lista_EstruturaSequencial\tabuada\tabuada\obj\Debug\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\Lista_EstruturaSequencial\tabuada\tabuada\obj\Debug\tabuada.exe
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\Lista_EstruturaSequencial\tabuada\tabuada\obj\Debug\tabuada.pdb

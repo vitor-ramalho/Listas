@@ -1,0 +1,7 @@
+C:\Users\Vitor\Desktop\Listas\Lista_Estrutura_repeticao_PARA\ex5\ex5\bin\Debug\ex5.exe.config
+C:\Users\Vitor\Desktop\Listas\Lista_Estrutura_repeticao_PARA\ex5\ex5\bin\Debug\ex5.exe
+C:\Users\Vitor\Desktop\Listas\Lista_Estrutura_repeticao_PARA\ex5\ex5\bin\Debug\ex5.pdb
+C:\Users\Vitor\Desktop\Listas\Lista_Estrutura_repeticao_PARA\ex5\ex5\obj\Debug\ex5.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\Listas\Lista_Estrutura_repeticao_PARA\ex5\ex5\obj\Debug\ex5.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\Listas\Lista_Estrutura_repeticao_PARA\ex5\ex5\obj\Debug\ex5.exe
+C:\Users\Vitor\Desktop\Listas\Lista_Estrutura_repeticao_PARA\ex5\ex5\obj\Debug\ex5.pdb

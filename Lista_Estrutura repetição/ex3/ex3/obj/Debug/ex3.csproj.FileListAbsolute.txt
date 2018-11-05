@@ -1,0 +1,7 @@
+C:\Users\Vitor\Desktop\Lista_Estrutura repetição\ex3\ex3\bin\Debug\ex3.exe.config
+C:\Users\Vitor\Desktop\Lista_Estrutura repetição\ex3\ex3\bin\Debug\ex3.exe
+C:\Users\Vitor\Desktop\Lista_Estrutura repetição\ex3\ex3\bin\Debug\ex3.pdb
+C:\Users\Vitor\Desktop\Lista_Estrutura repetição\ex3\ex3\obj\Debug\ex3.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\Lista_Estrutura repetição\ex3\ex3\obj\Debug\ex3.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\Lista_Estrutura repetição\ex3\ex3\obj\Debug\ex3.exe
+C:\Users\Vitor\Desktop\Lista_Estrutura repetição\ex3\ex3\obj\Debug\ex3.pdb

@@ -1,0 +1,14 @@
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex8\ex8\bin\Debug\ex8.exe.config
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex8\ex8\bin\Debug\ex8.exe
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex8\ex8\bin\Debug\ex8.pdb
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex8\ex8\obj\Debug\ex8.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex8\ex8\obj\Debug\ex8.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex8\ex8\obj\Debug\ex8.exe
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex8\ex8\obj\Debug\ex8.pdb
+C:\Users\Vitor\Desktop\Lista1\Lista_EstruturaCondicional\ex8\ex8\bin\Debug\ex8.exe.config
+C:\Users\Vitor\Desktop\Lista1\Lista_EstruturaCondicional\ex8\ex8\bin\Debug\ex8.exe
+C:\Users\Vitor\Desktop\Lista1\Lista_EstruturaCondicional\ex8\ex8\bin\Debug\ex8.pdb
+C:\Users\Vitor\Desktop\Lista1\Lista_EstruturaCondicional\ex8\ex8\obj\Debug\ex8.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\Lista1\Lista_EstruturaCondicional\ex8\ex8\obj\Debug\ex8.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\Lista1\Lista_EstruturaCondicional\ex8\ex8\obj\Debug\ex8.exe
+C:\Users\Vitor\Desktop\Lista1\Lista_EstruturaCondicional\ex8\ex8\obj\Debug\ex8.pdb

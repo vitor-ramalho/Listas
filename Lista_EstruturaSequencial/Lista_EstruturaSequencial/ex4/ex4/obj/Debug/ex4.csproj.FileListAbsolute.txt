@@ -1,0 +1,6 @@
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex4\ex4\bin\Debug\ex4.exe.config
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex4\ex4\bin\Debug\ex4.exe
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex4\ex4\bin\Debug\ex4.pdb
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex4\ex4\obj\Debug\ex4.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex4\ex4\obj\Debug\ex4.exe
+C:\Users\Vitor\Desktop\Lista_EstruturaSequencial\ex4\ex4\obj\Debug\ex4.pdb
